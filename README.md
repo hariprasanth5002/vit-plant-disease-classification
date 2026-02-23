@@ -167,7 +167,7 @@ Due to GitHub’s 100MB file limit, model weights are hosted externally.
 
 Download from:
 
-[Insert Google Drive Link Here]
+https://drive.google.com/file/d/1dD3vPH0iCWT9L4wgdiXWxvHHsGTyNjeJ/view?usp=drive_link
 
 After downloading:
 
